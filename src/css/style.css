@@ -1,0 +1,53 @@
+body {
+    font-family: 'Public Sans', sans-serif;
+}
+
+.background{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.image{
+    width: 85px;
+    height: 50px;
+}
+
+.name{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.header{
+    font-size: 15px;
+    display: flex;
+    font-weight: 400;
+    justify-content: space-between;
+    align-items: center;
+    width: 840px;
+}
+
+.sobre{
+    background-color: #5BC241;
+    color: #ffffff;
+    width: 85px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cadastro{
+    background-color: #5BC241;
+    border-radius: 10px;
+    color: #ffffff;
+    width: 180px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
